@@ -1,0 +1,8 @@
+{
+  "name": "NanoKimya",
+  "description": "Yeşil kimya ve nanoteknoloji konularını öğreten, lise kimya derslerine uygun eğitici mobil oyun uygulaması.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
